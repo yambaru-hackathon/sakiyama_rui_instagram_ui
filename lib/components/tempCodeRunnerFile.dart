@@ -1,1 +1,0 @@
- fit: BoxFit.cover
